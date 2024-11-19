@@ -1,0 +1,21 @@
+<resources>
+    <string-array name="madhab_array">
+        <item>Shafi</item>
+        <item>Hanafi</item>
+    </string-array>
+
+    <string-array name="isha_method_array">
+        <item>Last Third of Night</item>
+        <item>Arabic Midnight</item>
+        <item>Before Fajr</item>
+    </string-array>
+
+    <string-array name="calculation_method_array">
+        <item>Muslim World League</item>
+        <item>ISNA</item>
+        <item>Egyptian General Authority</item>
+        <item>University of Islamic Sciences, Karachi</item>
+        <item>Institute of Geophysics, University of Tehran</item>
+        <item>Gulf Region</item>
+    </string-array>
+</resources>
